@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/Default.aspx" title="Home"  description="Home menu">
+    <siteMapNode url="~/Clubs.aspx" title="Clubs"  description="View current clubs" />
+    <siteMapNode url="~/AddClub.aspx" title="Add Club"  description="Register a club" />
+    <siteMapNode url="~/Results.aspx" title="Result"  description="Match result" />
+    <siteMapNode url="~/MatchScheduling.aspx" title="Match Scheduling"  description="Schedule the matches" />
+    </siteMapNode>
+</siteMap>

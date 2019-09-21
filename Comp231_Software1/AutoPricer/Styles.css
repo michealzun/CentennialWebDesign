@@ -1,0 +1,14 @@
+﻿body {
+}
+#panel_padding{
+    padding-left:15px;
+    padding-bottom:15px;
+    padding-right:15px;
+    padding-top:15px;
+}
+    #panel_padding td {
+        padding-left: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+    }

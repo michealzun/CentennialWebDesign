@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>~/Images/Car1G.jpg</ImageUrl>
+    <NavigateUrl>http://www.contoso-ltd.com</NavigateUrl>
+    <AlternateText>Ad for Contoso, Ltd. Web site</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car2.jpg</ImageUrl>
+    <NavigateUrl>http://www.contoso-ltd.com</NavigateUrl>
+    <AlternateText>Ad for Contoso, Ltd. Web site</AlternateText>
+    <Impressions>60</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car3.jpg</ImageUrl>
+    <NavigateUrl>http://www.contoso-ltd.com</NavigateUrl>
+    <AlternateText>Ad for Contoso, Ltd. Web site</AlternateText>
+    <Impressions>60</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car4Mc.jpg</ImageUrl>
+    <NavigateUrl>http://www.contoso-ltd.com</NavigateUrl>
+    <AlternateText>Ad for Contoso, Ltd. Web site</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car5.jpg</ImageUrl>
+    <NavigateUrl>http://www.contoso-ltd.com</NavigateUrl>
+    <AlternateText>Ad for Contoso, Ltd. Web site</AlternateText>
+    <Impressions>40</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car6.jpg</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Ad for ASP.NET Web site</AlternateText>
+    <Impressions>45</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car7.jpg</ImageUrl>
+    <NavigateUrl>
+      https://www.carpages.ca/used-cars/ontario/mississauga/2007-ford-freestyle-3132779/
+    </NavigateUrl>
+    <AlternateText></AlternateText>
+    <Impressions>66</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car8.jpg</ImageUrl>
+    <NavigateUrl>
+      https://www.carpages.ca/used-cars/ontario/toronto/2011-mini-cooper-countryman-3133007/
+    </NavigateUrl>
+    <AlternateText>2011 mini cooper</AlternateText>
+    <Impressions>67</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car9.jpg</ImageUrl>
+    <NavigateUrl>
+      https://www.carpages.ca/used-cars/ontario/toronto/2007-honda-cr-v-3132990/
+    </NavigateUrl>
+    <AlternateText>2007 Honda</AlternateText>
+    <Impressions>71</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car10.jpg</ImageUrl>
+    <NavigateUrl>
+      https://www.kijiji.ca/v-cars-trucks/city-of-toronto/2007-nissan-altima-2-5s-cvt-automatic-transmission-180-000-k/1401632598?enableSearchNavigationFlag=true
+    </NavigateUrl>
+    <AlternateText></AlternateText>
+    <Impressions>57</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car11.jpg</ImageUrl>
+    <NavigateUrl>
+      https://www.torontohonda.com/used/vehicle/2017-honda-civic-ex-t-id9081563.htm
+    </NavigateUrl>
+    <AlternateText>2017 honda civic</AlternateText>
+    <Impressions>68</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car12.jpg</ImageUrl>
+    <NavigateUrl>
+      http://www.cheapusedcarsforsale.org/cheap-used-cars/
+    </NavigateUrl>
+    <AlternateText></AlternateText>
+    <Impressions>61</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car13.jpg</ImageUrl>
+    <NavigateUrl>
+      https://www.autopark.ca/used/vehicle/2013-dodge-dart-sxtrallye-id8958853.htm
+    </NavigateUrl>
+    <AlternateText>2013 dodge dart</AlternateText>
+    <Impressions>62</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car14.jpg</ImageUrl>
+    <NavigateUrl>
+      https://www.autopark.ca/used/vehicle/2014-toyota-corolla-s-id9083667.htm
+    </NavigateUrl>
+    <AlternateText>2014 toyato corolla</AlternateText>
+    <Impressions>58</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car15.jpg</ImageUrl>
+    <NavigateUrl>
+      https://www.autopark.ca/used/vehicle/2017-toyota-corolla-le-id9091086.htm
+    </NavigateUrl>
+    <AlternateText>2017 toyato corolla</AlternateText>
+    <Impressions>55</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car16.jpg</ImageUrl>
+    <NavigateUrl>
+      https://www.autopark.ca/used/vehicle/2016-toyota-corolla-le-id8966874.htm
+    </NavigateUrl>
+    <AlternateText>2016 toyato corollo</AlternateText>
+    <Impressions>57</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Car17.jpg</ImageUrl>
+    <NavigateUrl>
+      https://www.autopark.ca/used/vehicle/2014-toyota-corolla-le-id9085830.htm
+    </NavigateUrl>
+    <AlternateText>2014 toyato corolla</AlternateText>
+    <Impressions>42</Impressions>
+  </Ad>
+
+
+</Advertisements>

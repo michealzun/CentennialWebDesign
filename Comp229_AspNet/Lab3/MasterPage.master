@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html id="bg">
+<head runat="server">
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body id="body">
+    <form id="form" runat="server">
+    <div>
+        <div id="navBar" runat="server">
+            <h2 class="Padding">&nbsp;&nbsp;&nbsp;&nbsp; Canadian Premier League</h2>
+            <asp:SiteMapDataSource ID="siteMapSource" runat="server" />
+            <asp:Menu class="Padding" ID="Menu2" runat="server" DataSourceID="siteMapSource" Orientation="Horizontal" StaticDisplayLevels="2">
+                <staticmenuitemstyle horizontalpadding="30" />
+            </asp:Menu>
+        </div>
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <h5>&copy; CentennialCollege - 2018 Winter Comp229 Yueyang Sun</h5>
+</body>
+   
+</html>

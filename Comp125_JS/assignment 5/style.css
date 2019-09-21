@@ -1,0 +1,39 @@
+﻿#bug {
+	z-index: 10;
+	position: absolute;
+	background: url('bug.png') no-repeat center center;
+	width: 80px;
+	height: 80px;
+}
+#progress {
+	text-align: right;
+	position: relative;
+	top: -50px;
+}
+#content {
+    position: relative;
+	border-radius: 5px;
+	border-style: inherit;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	border-width: 10px;
+	margin-top: 100px;
+}
+
+.right {
+	text-align: right;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	background-image: url('wallpaper.jpg');
+	background-attachment: fixed;
+}
+footer {
+	text-align: right;
+}
+
+h3 { 
+    display: inline;
+}

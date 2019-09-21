@@ -1,0 +1,25 @@
+﻿#mode {
+	color: #FFFFFF;
+}
+
+.floatR {
+	text-align: right;
+}
+h1 {
+	text-decoration: underline;
+	padding-left: 10px;
+	text-transform: capitalize;
+	font-variant: small-caps;
+}
+#maindiv {
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #202020;
+	width: 800px;
+	opacity: 0.9;
+}
+#allpage {
+	font-family: Arial, Helvetica, sans-serif;
+	background-image: url('pictures/background.jpg');
+	color: #FFFFFF;
+}

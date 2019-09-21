@@ -1,0 +1,7 @@
+C:\Users\300933625\Desktop\project\week1\week1\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\300933625\Desktop\project\week1\week1\bin\TypeScriptHTMLApp1.dll
+C:\Users\300933625\Desktop\project\week1\week1\bin\TypeScriptHTMLApp1.pdb
+C:\Users\300933625\Desktop\project\week1\week1\obj\Debug\week1.csprojAssemblyReference.cache
+C:\Users\300933625\Desktop\project\week1\week1\obj\Debug\week1.csproj.CoreCompileInputs.cache
+C:\Users\300933625\Desktop\project\week1\week1\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\300933625\Desktop\project\week1\week1\obj\Debug\TypeScriptHTMLApp1.pdb

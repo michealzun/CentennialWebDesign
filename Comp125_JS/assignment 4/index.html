@@ -1,0 +1,94 @@
+﻿<!doctype html>
+
+<html lang="en">
+<head>
+	<title>YueyangSun Assignment4</title>
+	<meta name="description" content="comp125 assignment 4">
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<style type="text/css">
+	</style>
+</head>
+
+<body>
+	<div id="content"><br>
+	<header><h1 class="center">Member Registeration Form</h1></header><br><hr>
+	<content>
+	<form><fieldset>
+	<h4>Please fill in all the fields below : </h4>
+	
+		<table style="width: 100%">
+			<tr>
+				<td class="right">First Name : </td>
+				<td><input name="FName" type="text" style="width: 100px" required><p></p></td>
+			</tr>
+			<tr>
+				<td class="right">Last Name : </td>
+				<td><input name="LName" type="text" style="width: 100px" required><p></p></td>
+			</tr>
+
+			<tr>
+				<td class="right">Address : </td>
+				<td><input name="Address" type="text" style="width: 250px" required><p></p></td>
+			</tr>
+			<tr>
+				<td class="right">City : </td>
+				<td><input name="City" type="text" style="width: 100px" required><p></p></td>
+			</tr>
+			<tr>
+				<td class="right">Postal : </td>
+				<td>
+                    <input name="Postal" type="text" style="width: 50px" required>
+                    <p id="errorPostal"></p>
+                </td>
+			</tr>
+            <tr>
+                <td class="right">Province : </td>
+                <td>
+                    <input name="Province" type="text" style="width: 50px" required>
+                    <p id="errorProvince"></p>
+                </td>
+            </tr>
+			<tr>
+				<td class="right">Age : </td>
+                <td>
+                    <input name="Age" type="number" style="width: 50px" required>
+                    <p id="errorAge"></p>
+                </td>
+			</tr>
+			<tr>
+				<td class="right">Password : </td>
+                <td>
+                    <input name="Password" type="password" style="width: 200px" required>    
+                    <p id="errorPassword"></p>
+                </td>
+			</tr>
+			<tr>
+				<td class="right">Confirm Password : </td>
+                <td>
+                    <input name="PasswordRe" type="password" style="width: 200px" required>
+                    <p id="errorPasswordRe"></p>
+                </td>
+			</tr>
+			<tr>
+				<td class="right">Email : </td>
+                <td>
+                    <input name="Email" type="email" style="width: 250px" required>
+                    <p id="errorEmail"></p>
+                </td>
+			</tr>
+			<tr>
+				<td colspan="2"><p></p></td>
+			</tr>
+			<tr>
+				<td class="right"><input name="Reset" type="reset" value="reset" style="width: 100px"></td>
+				<td class="right"><input name="Submit" type="submit" value="submit" style="width: 150px"></td>
+			</tr>
+		</table>
+	</fieldset></form>
+	<hr><br>
+	</content>
+	<footer><h5>&copy;&nbsp;Centennial College Comp125 Summer 2017 YueyangSun (300933625)</h5></footer>
+	</div>
+	<script type='text/javascript' src="script.js"></script>
+</body>
+</html>
